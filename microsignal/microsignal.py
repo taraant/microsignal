@@ -66,7 +66,7 @@ class MicroSignal:
 
 
 # Create a global instance of MicroSignal
-msignal = MicroSignal()
+microsignal = MicroSignal()
 
 def subscribe(signal_number):
     """
@@ -78,4 +78,4 @@ def subscribe(signal_number):
     Returns:
         function: The decorator function.
     """
-    return msignal.subscribe(signal_number)
+    return microsignal.subscribe(signal_number)
