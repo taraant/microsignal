@@ -1,3 +1,3 @@
-from .micro_signal import MicroSignal, msignal, subscribe
+from .microsignal import MicroSignal, microsignal, subscribe
 
-__all__ = ['MicroSignal', 'msignal', 'subscribe']
+__all__ = ['MicroSignal', 'microsignal', 'subscribe']
