@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='microsignal',
-    version='0.1.0',
+    version='0.1.1',
     packages=find_packages(),
     description='A lightweight library for handling custom signals with synchronous and asynchronous callbacks in Python.',
     long_description=open('README.md').read(),
