@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Tarasov Anton (taraant)',
     author_email='ant0@mail.ru',
-    url='https://github.com/taraant/micro_signal',
+    url='https://github.com/taraant/microsignal',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
